@@ -8,5 +8,10 @@ public class CreateContactsTest {
 
 	public void createcontact() {
 		System.out.println("Contact created");
+	
+	}
+	
+	public void createcontactwithorg() {
+		System.out.println("Contact wih Org created");
 	}
 }
