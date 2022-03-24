@@ -8,6 +8,13 @@ public class CreateDocuments {
 	public void createDocuments() {
 		
 		System.out.println("Doc created");
-	}
-
+		System.out.println("Calculator used in doc page");	
+		
+		
+		
+		
+		
+		
+		
+		}
 }
