@@ -8,6 +8,8 @@ public class CreateOrganizationsTest {
 
 	public void createOrganization() {
 		System.out.println("Organization created");
+		
+		System.out.println("Welcome OrgName");
 	}
 	
 }
