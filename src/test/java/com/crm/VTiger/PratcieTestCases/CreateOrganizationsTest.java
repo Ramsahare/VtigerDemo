@@ -10,6 +10,7 @@ public class CreateOrganizationsTest {
 		System.out.println("Organization created");
 		
 		System.out.println("Welcome OrgName");
+	
 	}
 	
 }
